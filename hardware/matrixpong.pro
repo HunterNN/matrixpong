@@ -1,4 +1,4 @@
-update=Sam 19 Aug 2017 16:58:57 CEST
+update=Son 20 Aug 2017 14:21:39 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=Arduino_Shield_Modules_for_KiCad_V3/arduino_shieldsNCL
+LibName31=switches
